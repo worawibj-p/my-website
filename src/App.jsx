@@ -51,10 +51,6 @@ function App() {
             Worawiboon
           </h1>
 
-          <h2 className="text-2xl mb-5">
-            Frontend Developer
-          </h2>
-
           <p className="max-w-xl text-gray-200 mb-8">
             I am passionate about technology,
             web development and creating modern websites.
