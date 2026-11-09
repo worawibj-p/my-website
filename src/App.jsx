@@ -95,17 +95,6 @@ function App() {
             Contact Me
           </h2>
 
-          <p className="text-gray-300 mb-4">
-            Feel free to contact me.
-          </p>
-
-          <a
-            href="mailto:your-email@example.com"
-            className="inline-block bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg"
-          >
-            Send Email
-          </a>
-
         </div>
 
       </section>
