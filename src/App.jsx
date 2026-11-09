@@ -94,7 +94,9 @@ function App() {
           <h2 className="text-4xl font-bold mb-6">
             Contact Me
           </h2>
-
+          <p className="text-white-600 text-lg leading-relaxed">
+            @Line ID : ppondd7
+          </p>
         </div>
 
       </section>
